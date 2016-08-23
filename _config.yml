@@ -1,0 +1,14 @@
+name: VR APOCALYPSE
+layout_spectrum: 0.6481205845348261
+typography_spectrum: 0.41065715053690044
+color:
+  brandColors:
+    - '#FF6600'
+    - '#C13B00'
+    - '#5E6D70'
+    - '#424E4F'
+    - '#1B1D1E'
+  brandStrength: 0.7968513545258135
+  lightness: 0.30348520076878227
+  saturation: 0.29209461601810993
+  rhythmicContrast: 0.04514826121037885
