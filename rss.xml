@@ -4,8 +4,15 @@
         <description><![CDATA[VR APOCALYPSE]]></description>
         <link>https://thegrid.ai/vr-apocalypse/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 22:30:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 22:30:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vr-apocalypse/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Subnautica Early Access Trailer]]></title>
+            <description><![CDATA[<article><h1>Subnautica Early Access Trailer</h1><p>Subnautica: http://store.steampowered.com/app/264710/ Visit the Steam Store (Link above) for more info about Subnautica!</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7fff77b9651cd0c4c2c46c558a5ca16a/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2F_7BzngvURrk%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://youtu.be/_7BzngvURrk</link>
+            <guid isPermaLink="false">c44dc2f1-2419-4cb6-baf4-c42c3bde4d6b</guid>
+            <pubDate>Tue, 23 Aug 2016 22:30:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dying Light - E3 2014 Trailer]]></title>
             <description><![CDATA[<article><h1>Dying Light - E3 2014 Trailer</h1><p>Learn about the game's Natural Movement feature in this E3 trailer for Dying Light. Follow Dying Light at GameSpot.com!</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/34c5d5b7c7cdca3be5391c2ed9381d98/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2Fa_ZCopEkQJ0%2Fmaxresdefault.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://youtu.be/_rYfkDmSRKs</link>
             <guid isPermaLink="false">78f30390-f9d9-4d68-a8b1-49d1a477fb73</guid>
             <pubDate>Tue, 23 Aug 2016 22:29:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Euro Truck Simulator 2 Promo Trailer]]></title>
-            <description><![CDATA[<article><h1>Euro Truck Simulator 2 Promo Trailer</h1><p>Travel across Europe as king of the road, a trucker who delivers important cargo across impressive distances! With dozens of cities to explore from the UK, Belgium, Germany, Italy, the Netherlands, Poland, and many more, your endurance, skill and speed will all be pushed to their limits.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0f4731c2c0cdd60e15183866d91045ce/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FxlTuC18xVII%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://youtu.be/xlTuC18xVII</link>
-            <guid isPermaLink="false">53eded40-c528-40ee-8e66-173f76c5f0e6</guid>
-            <pubDate>Tue, 23 Aug 2016 22:29:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
