@@ -4,8 +4,15 @@
         <description><![CDATA[VR APOCALYPSE]]></description>
         <link>https://thegrid.ai/vr-apocalypse/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 22:30:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 22:31:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vr-apocalypse/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lucky's Tale 2016 Gameplay Trailer]]></title>
+            <description><![CDATA[<article><h1>Lucky's Tale 2016 Gameplay Trailer</h1><p>Footage taken from a near finished build of Lucky's Tale...final version coming soon to an Oculus Rift near you!! Game Description: Lucky's Tale is a delightful platforming adventure game designed exclusively for the Oculus Rift.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f291ef540c69ea42da050657a09fcc2f/croprotate.jpg?cropheight=697&cropwidth=1280&degrees=0&input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FEK64YnWu6ro%2Fmaxresdefault.jpg&x=0&y=12"></article>]]></description>
+            <link>https://youtu.be/EK64YnWu6ro</link>
+            <guid isPermaLink="false">19a710ed-8921-499f-b533-6509e82447fb</guid>
+            <pubDate>Tue, 23 Aug 2016 22:30:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Subnautica Early Access Trailer]]></title>
             <description><![CDATA[<article><h1>Subnautica Early Access Trailer</h1><p>Subnautica: http://store.steampowered.com/app/264710/ Visit the Steam Store (Link above) for more info about Subnautica!</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7fff77b9651cd0c4c2c46c558a5ca16a/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2F_7BzngvURrk%2Fmaxresdefault.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://youtu.be/kYDSqRzOVKE</link>
             <guid isPermaLink="false">38246fc0-d63b-4ef8-b34f-879e3bb71900</guid>
             <pubDate>Tue, 23 Aug 2016 22:29:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Minecraft is Now Available on Gear VR!]]></title>
-            <description><![CDATA[<article><h1>Minecraft is Now Available on Gear VR!</h1><p>We're excited to announce that Minecraft: Gear VR Edition is here! We worked closely with the Minecraft team to let you step inside your Minecraft world with friends. Now you can build, explore, battle mobs - and all your other favorite Minecraft activities - with the power of mobile virtual reality.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c63e06ee0a1a67eaeee0f0bccb96a2f8/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2F_rYfkDmSRKs%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://youtu.be/_rYfkDmSRKs</link>
-            <guid isPermaLink="false">78f30390-f9d9-4d68-a8b1-49d1a477fb73</guid>
-            <pubDate>Tue, 23 Aug 2016 22:29:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
